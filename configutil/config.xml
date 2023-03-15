@@ -1,0 +1,5 @@
+<config>
+    <port>8080</port>
+    <env>test</env>
+    <logLevel>debug</logLevel>
+</config>
